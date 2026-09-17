@@ -57,45 +57,7 @@ The section below is generated from the Atlas model by `pnpm portfolio` and past
 
 Measured from the model on 2026-09-17: 20 systems, 231 modules, 201 connections and 140 recorded decisions. 17 connections cross a system boundary; 14 of those stay inside a family and 3 cross families. The map shows 19 of the 20 systems (left out: premius-strategia).
 
-```mermaid
-flowchart LR
-  subgraph fam_masterforge["MasterForge family"]
-    masterforge["MasterForge"]:::product
-    shared_services["Shared Services"]:::infra
-    spectralforge["SpectralForge"]:::product
-    spectralforge_api["SpectralForge-API"]:::service
-  end
-  subgraph fam_quaesitor["Quaesitor V2 family"]
-    quaesitor["Quaesitor V2"]:::product
-    somnus["Somnus"]:::service
-  end
-  atlas["Atlas"]:::infra
-  quaesitor_security["Quaesitor Security"]:::service
-  kalastus["Kalastuksen ennustesovellus"]:::product
-  luviamo["Luviamo"]:::product
-  premius_arki["Premius Arki"]:::product
-  reviewglass["ReviewGlass"]:::product
-  salpa["Salpa Defence"]:::product
-  sf3d_ai_lab["SF3D AI Lab"]:::product
-  scc2["Sunrise Command Center v2"]:::product
-  sw_sivusto["Sunrise Software Site"]:::product
-  tilastosilta["TilastoSilta"]:::product
-  ultragravel["Ultra Gravel"]:::product
-  virustutka["Virustutka"]:::product
-  kalastus -->|1| ultragravel
-  masterforge -->|8| shared_services
-  masterforge -->|1| spectralforge_api
-  salpa -->|1| quaesitor
-  salpa -->|1| somnus
-  somnus -->|1| quaesitor
-  spectralforge -->|1| shared_services
-  spectralforge -->|1| spectralforge_api
-  spectralforge_api -->|2| shared_services
-  classDef product fill:#F4EFE6,stroke:#9E7F4C,color:#0E1114
-  classDef infra fill:#1A2332,stroke:#C8A876,color:#F4EFE6
-  classDef service fill:#5B7A8E,stroke:#1A2332,color:#F4EFE6
-  classDef workspace fill:#E8E2D6,stroke:#96908A,color:#0E1114,stroke-dasharray:4 3
-```
+![The family, drawn from the Atlas model on 2026-09-17](family-map.svg)
 
 | System | Type | Modules | Stack |
 |---|---|---:|---|
