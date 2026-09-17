@@ -55,7 +55,7 @@ pete@sunrisesoftware.app Â· [sunrisesoftware.app](https://sunrisesoftware.app) Â
 
 The section below is generated from the Atlas model by `pnpm portfolio` and pasted here unchanged, so the numbers are measured rather than typed.
 
-Measured from the model on 2026-09-17: 20 systems, 230 modules, 201 connections and 139 recorded decisions. 17 connections cross a system boundary; 14 of those stay inside a family and 3 cross families. The map shows 19 of the 20 systems (left out: premius-strategia).
+Measured from the model on 2026-09-17: 20 systems, 231 modules, 201 connections and 140 recorded decisions. 17 connections cross a system boundary; 14 of those stay inside a family and 3 cross families. The map shows 19 of the 20 systems (left out: premius-strategia).
 
 ```mermaid
 flowchart LR
@@ -99,7 +99,7 @@ flowchart LR
 
 | System | Type | Modules | Stack |
 |---|---|---:|---|
-| Atlas | infra | 41 | typescript, pnpm, react, react-flow, vite, tailwind, cloudflare-workers, d1, kv, cloudflare-access, mcp, oauth, web-tree-sitter, zod |
+| Atlas | infra | 42 | typescript, pnpm, react, react-flow, vite, tailwind, cloudflare-workers, d1, kv, cloudflare-access, mcp, oauth, web-tree-sitter, zod |
 | Shared Services | infra | 5 | supabase, cloudflare-r2, stripe, resend, anthropic |
 | Quaesitor Security | service | 12 | python, fastapi, anthropic, docker, mcp, semgrep, osv-scanner |
 | Somnus | service | 11 | python, fastapi, asyncpg, postgresql, pgvector, llama.cpp, rocm, tailscale |
