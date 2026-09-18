@@ -1,3 +1,5 @@
+![Petri Korhonen: health tech, audio, research tooling and AI infrastructure](banner.svg)
+
 # Petri Korhonen
 
 Founder of [Sunrise Software Oy](https://sunrisesoftware.app), an independent software studio in Tampere, Finland, established 2024.
