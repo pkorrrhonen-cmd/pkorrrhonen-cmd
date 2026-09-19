@@ -12,7 +12,7 @@ Most of my repositories are private: client work and products that are not relea
 
 | Product | What it is | Where |
 |---|---|---|
-| MasterForge | AI music mastering built for the artifacts of neural-network audio. Real-time DSP engine, four tiers, paying customers since 2023. | [masterforge.app](https://masterforge.app) |
+| MasterForge | AI music mastering built for the artifacts of neural-network audio. Real-time DSP engine, four tiers, paying customers since 2024. | [masterforge.app](https://masterforge.app) |
 | SpectralForge | Companion to MasterForge: diagnoses and repairs the spectral deficiencies of AI-generated and codec-damaged audio. Beta. | [spectral.masterforge.app](https://spectral.masterforge.app) |
 | Quaesitor | A research engine built around the cognitive stream: an agent reasons on its own, falsifies its claims, verifies them with code and computation, and refuses to repeat a question it cannot answer more strongly than before. Three specialised streams in parallel. | [quaesitor.app](https://quaesitor.app) |
 | Luviamo | Marketing lifecycle platform for Nordic SMBs: one brand voice carried from ideation to publication and measurement, replacing five to eight separate tools. In production. | [luviamo.app](https://luviamo.app) |
@@ -47,7 +47,7 @@ Rules that the instruments taught me, each paid for by a defect they caught:
 
 ## Before software
 
-SF3D, 2008 to 2016: multiple world records in 3D and calculation benchmarks, the first 7 GHz quad-core CPU under liquid helium (2010), a SuperPi 32M world record (2012), HWBot Pro League world number three, and liquid-nitrogen cooling product lines co-designed with EK Water Blocks. The intuition built there, pressure, tolerance, the line between working and failing, is the one applied now to audio DSP, machine-learning outputs and clinical reasoning.
+SF3D, 2006 to 2016: multiple world records in 3D and calculation benchmarks, the first 7 GHz quad-core CPU under liquid helium (2010), a SuperPi 32M world record (2012), HWBot Pro League world number three, and liquid-nitrogen cooling product lines co-designed with EK Water Blocks. The intuition built there, pressure, tolerance, the line between working and failing, is the one applied now to audio DSP, machine-learning outputs and clinical reasoning.
 
 ## Contact
 
