@@ -57,17 +57,18 @@ pete@sunrisesoftware.app Â· [sunrisesoftware.app](https://sunrisesoftware.app) Â
 
 The section below is generated from the Atlas model by `pnpm portfolio` and pasted here unchanged, so the numbers are measured rather than typed.
 
-Measured from the model on 2026-09-17: 20 systems, 231 modules, 201 connections and 140 recorded decisions. 17 connections cross a system boundary; 14 of those stay inside a family and 3 cross families. The map shows 19 of the 20 systems (left out: premius-strategia).
+Measured from the model on 2026-09-24: 21 systems, 249 modules, 214 connections and 173 recorded decisions. 17 connections cross a system boundary; 14 of those stay inside a family and 3 cross families. The map shows 20 of the 21 systems (left out: premius-strategia).
 
-![The family, drawn from the Atlas model on 2026-09-17](family-map.svg)
+![The family, drawn from the Atlas model on 2026-09-24](family-map.svg)
 
 | System | Type | Modules | Stack |
 |---|---|---:|---|
-| Atlas | infra | 42 | typescript, pnpm, react, react-flow, vite, tailwind, cloudflare-workers, d1, kv, cloudflare-access, mcp, oauth, web-tree-sitter, zod |
+| Atlas | infra | 45 | typescript, pnpm, react, react-flow, vite, tailwind, cloudflare-workers, d1, kv, cloudflare-access, mcp, oauth, web-tree-sitter, zod |
 | Shared Services | infra | 5 | supabase, cloudflare-r2, stripe, resend, anthropic |
 | Quaesitor Security | service | 12 | python, fastapi, anthropic, docker, mcp, semgrep, osv-scanner |
 | Somnus | service | 11 | python, fastapi, asyncpg, postgresql, pgvector, llama.cpp, rocm, tailscale |
 | SpectralForge-API | service | 7 | python, fastapi, librosa, demucs, bs-roformer, hetzner, nginx, systemd |
+| HomeTeam | product | 15 | cloudflare-workers, durable-objects, d1, hono, zod, react, vite, typescript, pnpm, resend, web-push |
 | Kalastuksen ennustesovellus | product | 8 | typescript, postgis, epsg3067, open-data, expo, react-native, maplibre |
 | Luviamo | product | 16 | typescript, react, vite, tailwind, hono, cloudflare-workers, cloudflare-pages, d1, r2, kv, zod, vitest |
 | MasterForge | product | 9 | html, javascript, web-audio, supabase-edge-functions, cloudflare-pages |
