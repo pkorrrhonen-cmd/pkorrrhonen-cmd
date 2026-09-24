@@ -24,7 +24,7 @@ Most of my repositories are private: client work and products that are not relea
 | ReviewGlass | Open source (Apache-2.0). A Windows 11 desktop companion for AI-assisted coding sessions: a magnifier glass over the session, a panel of every running session with the account quota, and later a live diff. Tauri v2, Rust core. | [github.com/Sunrisesoftware-app/reviewglass](https://github.com/Sunrisesoftware-app/reviewglass) |
 | SF3D AI Lab | Research notes on multi-agent cognition running on AMD RDNA4 hardware: lab notes, negative results included, and a news feed assembled by agents. | [sf3d.fi](https://sf3d.fi) |
 
-Also live: HomeTeam (a family task system, [home.sunrisesoftware.app](https://home.sunrisesoftware.app)) and VitalTrack (personal training analytics, [health.sunrisesoftware.app](https://health.sunrisesoftware.app)). Day work: development manager at a rehabilitation company, where the staff application Arki (in production since August 2026) and the Premius Plus clinical platform are built in-house.
+Also live: VitalTrack (personal training analytics, [health.sunrisesoftware.app](https://health.sunrisesoftware.app)). Day work: development manager at a rehabilitation company, where the staff application Arki (in production since August 2026) and the Premius Plus clinical platform are built in-house.
 
 ## How I work
 
